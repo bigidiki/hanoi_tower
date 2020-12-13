@@ -1,0 +1,7 @@
+F:\Aliceru\hanoi_tower\hanoi_tower\hanoi_tower\bin\Debug\hanoi_tower.exe.config
+F:\Aliceru\hanoi_tower\hanoi_tower\hanoi_tower\bin\Debug\hanoi_tower.exe
+F:\Aliceru\hanoi_tower\hanoi_tower\hanoi_tower\bin\Debug\hanoi_tower.pdb
+F:\Aliceru\hanoi_tower\hanoi_tower\hanoi_tower\obj\Debug\hanoi_tower.csprojAssemblyReference.cache
+F:\Aliceru\hanoi_tower\hanoi_tower\hanoi_tower\obj\Debug\hanoi_tower.csproj.CoreCompileInputs.cache
+F:\Aliceru\hanoi_tower\hanoi_tower\hanoi_tower\obj\Debug\hanoi_tower.exe
+F:\Aliceru\hanoi_tower\hanoi_tower\hanoi_tower\obj\Debug\hanoi_tower.pdb
